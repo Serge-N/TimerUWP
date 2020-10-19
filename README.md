@@ -13,4 +13,5 @@ You could use as a template for reminders that include any of the following:
 * Anything that matters to you.
 
 You can also add support for WPF, iOS and Android.
-Another great possibility is addition of new features.
+
+Another great possibility is addition of new **features**.
